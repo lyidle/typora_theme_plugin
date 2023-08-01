@@ -63,7 +63,7 @@ document.documentElement.style.setProperty(
 
 ### normal：
 
-<video id="video" controls=""src="./markdown_images/typora_normal.mp4" preload="none"></video>
+[](./markdown_images/typora_normal.mp4)
 
 ### theme：
 
