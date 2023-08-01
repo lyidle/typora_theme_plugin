@@ -63,9 +63,11 @@ document.documentElement.style.setProperty(
 
 ### normal：
 
-[](./markdown_images/typora_normal.mp4)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://lyidle.github.io/typora_theme_plugin/video/typora_normal.mp4)
 
 ### theme：
 
-<video id="video" controls=""src="./markdown_images/typora_theme.mp4" preload="none"></video>
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://lyidle.github.io/typora_theme_plugin/video/typora_theme.mp4)
+
+
 
