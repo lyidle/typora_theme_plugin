@@ -36,17 +36,17 @@ Typora 是一款由 Abner Lee 开发的[轻量级](https://baike.baidu.com/item/
 
 如需使用本地`emilia_purple_local.css`文件导出时背景图与H1标签下的图片存在云端可以添加如下代码：
 
-
 <script>
     document.documentElement.style.setProperty(
         "--header-h1-underline-img",
-        "url('https://s2.loli.net/2023/07/26/HVNqXB9MygYZQCA.png')"
+        "url('https://lyidle.github.io/typora_theme_plugin/images/typora_header-mark.png')"
       );
 document.documentElement.style.setProperty(
     "--reading-content-background",
-    "url('https://s2.loli.net/2023/07/26/LBPhlqpNiZVouX1.png')"
+    "url('https://lyidle.github.io/typora_theme_plugin/images/430px-爱蜜莉雅.png')"
   );
 </script>
+
 也可以根据需要在主题文件的root目录中自行更换图片，导出设置也可以更换成自己想要的图片，大小也可以自行更改。
 
 图片存放的是github，国内可能访问不了，电脑可以使用`Watt Toolkit`加速访问。
