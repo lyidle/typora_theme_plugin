@@ -69,5 +69,4 @@ document.documentElement.style.setProperty(
 
 [![Watch the video]()](https://lyidle.github.io/typora_theme_plugin/video/typora_theme.mp4)
 
-
-
+### 链接：[演示 (lyidle.github.io)](https://lyidle.github.io/typora_theme_plugin/)
