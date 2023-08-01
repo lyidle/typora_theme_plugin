@@ -1,0 +1,10 @@
+<script>
+    document.documentElement.style.setProperty(
+        "--header-h1-underline-img",
+        "url('https://s2.loli.net/2023/07/26/HVNqXB9MygYZQCA.png')"
+      );
+document.documentElement.style.setProperty(
+    "--reading-content-background",
+    "url('https://s2.loli.net/2023/07/26/LBPhlqpNiZVouX1.png')"
+  );
+</script>
