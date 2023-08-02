@@ -218,7 +218,7 @@ button.btn-default:active
 /* .pane>.content:nth-child(2)>.input-group:nth-child(6)>.input-group-content{
     background-color: rgb(232, 207, 252,0.2)!important;
 } */
-/* 1.5.10 activation */
+/* 1.6.7 activation */
 .pane>.content:nth-child(8)>.input-group:nth-child(4)>.input-group-content{
     background-color: rgb(232, 207, 252,0.2)!important;
 }
